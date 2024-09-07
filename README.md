@@ -1,4 +1,4 @@
-# C.S keywords 
+ko# C.S keywords 
 Here we write the important keywords of computer science and all the information about them 
 <br/>
 <h1><b>CPU</b></h1>
@@ -12,3 +12,6 @@ Here we write the important keywords of computer science and all the information
 A network is basically a collection of computers and other devices that are linked together to exchange data
 <h2>Internet</h2>
 The internet is defined as a global network of linked computers, servers, phones, and smart appliances that communicate with each other using the transmission control protocol (TCP) standard to enable the fast exchange of information and files, along with other types of services
+<h2>ASIC</h2>
+<img src="">
+An application-specific integrated circuit is an integrated circuit (IC) that’s custom-designed for a particular task or application. 
