@@ -30,6 +30,7 @@ An application-specific integrated circuit is an integrated circuit (IC) that’
 <img src="https://github.com/user-attachments/assets/1193c4cc-0439-4a5f-92c2-93d4b1e33dd8">
 Complex instruction set computing (CISC), often referred to as “CISC,” stands as a fundamental element in the evolution of complex computer processors, reflecting a distinct design philosophy that diverges from the Reduced Instruction Set Computing (RISC) approach. 
 <h1>RISC</h1>
+<img src="https://github.com/user-attachments/assets/2254d5a6-4013-4f8f-8290-8bebdd856dd3">
 A Reduced Instruction Set Computer is a type of microprocessor architecture that utilizes a small, highly-optimized set of instructions rather than the highly-specialized set of instructions typically found in other architectures.
 <h2>RISC-V</h2>
 RISC-V” stands for Reduced Instruction Set Computing (RISC) and the “V” represents the fifth version of the RISC architecture. Unlike proprietary architectures such as ARM and x86, RISC-V is an open standard, allowing anyone to implement it without the need for licensing fees.
