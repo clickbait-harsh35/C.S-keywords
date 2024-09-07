@@ -7,3 +7,5 @@ Here we write the important keywords of computer science and all the information
 <h1><b>GPU</b></h1>
 <img src="https://github.com/user-attachments/assets/4e2ee8fa-6334-4675-af18-13ee8a5910ea">
 <body>Graphics processing unit, a specialized processor originally designed to accelerate graphics rendering. GPUs can process many pieces of data simultaneously, making them useful for machine learning, video editing, and gaming applications.Example - nvidia </body>
+<h1><b>NETWORK</b></h1>
+A network is basically a collection of computers and other devices that are linked together to exchange data
