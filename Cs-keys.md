@@ -33,6 +33,8 @@ Complex instruction set computing (CISC), often referred to as “CISC,” stand
 <img src="https://github.com/user-attachments/assets/2254d5a6-4013-4f8f-8290-8bebdd856dd3">
 A Reduced Instruction Set Computer is a type of microprocessor architecture that utilizes a small, highly-optimized set of instructions rather than the highly-specialized set of instructions typically found in other architectures.
 <h2>RISC-V</h2>
+<img src="https://github.com/user-attachments/assets/02f246b1-6d0e-44a6-a12c-602c17dfd95b">
 RISC-V” stands for Reduced Instruction Set Computing (RISC) and the “V” represents the fifth version of the RISC architecture. Unlike proprietary architectures such as ARM and x86, RISC-V is an open standard, allowing anyone to implement it without the need for licensing fees.
 <h1>VPN</h1>
+<img src="https://github.com/user-attachments/assets/283cb596-6cfe-4225-817f-bc6a9b5f47d2">
 A VPN, which stands for virtual private network, establishes a digital connection between your computer and a remote server owned by a VPN provider, creating a point-to-point tunnel that encrypts your personal data, masks your IP address, and lets you sidestep website blocks and firewalls on the internet.
