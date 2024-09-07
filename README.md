@@ -10,3 +10,5 @@ Here we write the important keywords of computer science and all the information
 <h1><b>NETWORK</b></h1>
 <img src="https://github.com/user-attachments/assets/b69d568a-db0e-4295-b2aa-ae097fb6cee2">
 A network is basically a collection of computers and other devices that are linked together to exchange data
+<h2>Internet</h2>
+The internet is defined as a global network of linked computers, servers, phones, and smart appliances that communicate with each other using the transmission control protocol (TCP) standard to enable the fast exchange of information and files, along with other types of services
