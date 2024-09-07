@@ -12,6 +12,16 @@ Here we write the important keywords of computer science and all the information
 A network is basically a collection of computers and other devices that are linked together to exchange data
 <h2>Internet</h2>
 The internet is defined as a global network of linked computers, servers, phones, and smart appliances that communicate with each other using the transmission control protocol (TCP) standard to enable the fast exchange of information and files, along with other types of services
+<h2>7 layers of OSI model</h2>
+1.The Physical Layer:-The physical layer is where the raw bitstream is physically transmitted over a physical medium. 
+2.The Data Link Layer:-The data link layer breaks data to be transmitted into frames for transmission at the physical layer.
+3.The Network Layer:-At the network layer, the focus expands from a point-to-point link to include many interconnected nodes within a network.
+4.The Transport Layer:-This layer manages the transmission of data between nodes, including ensuring that data arrives in the correct sequence and that any errors are corrected.
+5.The Session Layer:-The session layer manages sessions between nodes and acts on the “data” PDU. Session management includes setup, authentication, termination, and reconnections.
+6.The Presentation Layer:-The presentation layer is primarily responsible for translating data from network data to the formats expected by an application. For example, data encodings and encryption are managed at Layer 6.
+7.The Application Layer:-The application layer includes protocols designed for end-users. For example, HTTP is a Layer 7 protocol designed to transmit data between a web server and a client.
+
+
 <h2>ASIC</h2>
 <img src="">
 An application-specific integrated circuit is an integrated circuit (IC) that’s custom-designed for a particular task or application. 
