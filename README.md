@@ -23,6 +23,12 @@ The internet is defined as a global network of linked computers, servers, phones
 7.The Application Layer:-The application layer includes protocols designed for end-users. For example, HTTP is a Layer 7 protocol designed to transmit data between a web server and a client.
 
 
-<h2>ASIC</h2>
+<h1>ASIC</h1>
 <img src="https://github.com/user-attachments/assets/95c2185c-dd0f-4355-848b-5354fd933b96">
 An application-specific integrated circuit is an integrated circuit (IC) that’s custom-designed for a particular task or application. 
+<h1>CISC</h1>
+Complex instruction set computing (CISC), often referred to as “CISC,” stands as a fundamental element in the evolution of complex computer processors, reflecting a distinct design philosophy that diverges from the Reduced Instruction Set Computing (RISC) approach. 
+<h1>RISC</h1>
+A Reduced Instruction Set Computer is a type of microprocessor architecture that utilizes a small, highly-optimized set of instructions rather than the highly-specialized set of instructions typically found in other architectures.
+<h2>RISC-V</h2>
+RISC-V” stands for Reduced Instruction Set Computing (RISC) and the “V” represents the fifth version of the RISC architecture. Unlike proprietary architectures such as ARM and x86, RISC-V is an open standard, allowing anyone to implement it without the need for licensing fees.
