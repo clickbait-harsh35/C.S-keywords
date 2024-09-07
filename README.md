@@ -6,4 +6,4 @@ Here we write the important keywords of computer science and all the information
 <body>The Central Processing Unit (CPU) is the primary component of a computer that acts as its “control center.” The CPU, also referred to as the “central” or “main” processor, is a complex set of electronic circuitry that runs the machine's operating system and apps</body>
 <h1><b>GPU</b></h1>
 <img src="https://github.com/user-attachments/assets/4e2ee8fa-6334-4675-af18-13ee8a5910ea">
-<body>Graphics processing unit, a specialized processor originally designed to accelerate graphics rendering. GPUs can process many pieces of data simultaneously, making them useful for machine learning, video editing, and gaming applications.</body>
+<body>Graphics processing unit, a specialized processor originally designed to accelerate graphics rendering. GPUs can process many pieces of data simultaneously, making them useful for machine learning, video editing, and gaming applications.Example - nvidia </body>
