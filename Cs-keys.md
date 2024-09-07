@@ -38,3 +38,5 @@ RISC-V” stands for Reduced Instruction Set Computing (RISC) and the “V” re
 <h1>VPN</h1>
 <img src="https://github.com/user-attachments/assets/283cb596-6cfe-4225-817f-bc6a9b5f47d2">
 A VPN, which stands for virtual private network, establishes a digital connection between your computer and a remote server owned by a VPN provider, creating a point-to-point tunnel that encrypts your personal data, masks your IP address, and lets you sidestep website blocks and firewalls on the internet.
+<h1>BLOCKCHAIN</h1>
+blockchain is a distributed database or ledger shared among a computer network's nodes. They are best known for their crucial role in cryptocurrency systems for maintaining a secure and decentralized record of transactions, but they are not limited to cryptocurrency uses.
