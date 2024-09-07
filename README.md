@@ -13,6 +13,7 @@ A network is basically a collection of computers and other devices that are link
 <h2>Internet</h2>
 The internet is defined as a global network of linked computers, servers, phones, and smart appliances that communicate with each other using the transmission control protocol (TCP) standard to enable the fast exchange of information and files, along with other types of services
 <h2>7 layers of OSI model</h2>
+<img src="https://github.com/user-attachments/assets/08a4d20a-3ad2-4080-8560-8d024cf9d641">
 1.The Physical Layer:-The physical layer is where the raw bitstream is physically transmitted over a physical medium. 
 2.The Data Link Layer:-The data link layer breaks data to be transmitted into frames for transmission at the physical layer.
 3.The Network Layer:-At the network layer, the focus expands from a point-to-point link to include many interconnected nodes within a network.
