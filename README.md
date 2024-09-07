@@ -1,4 +1,2 @@
 # Computer-science-keywords
-<h1>hello</h1><br/>
-<hr/>
-<h2>hi</h2>
+Here we write the important keywords of computer science and all the information about them
