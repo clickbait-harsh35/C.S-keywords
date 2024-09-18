@@ -47,31 +47,31 @@ A field-programmable gate array (FPGA) is a type of configurable integrated circ
 <h2><b>Server</b></h2>
 A server is a computer that provides information to other computers called "clients" on computer network.[1] This architecture is called the client–server model. Servers can provide various functionalities, often called "services", such as sharing data or resources among multiple clients or performing computations for a client. A single server can serve multiple clients, and a single client can use multiple servers. A client process may run on the same device or may connect over a network to a server on a different device.
 
-<h1><b>4. Frontend Development</b></h1>
+<h1><b>Frontend Development</b></h1>
 <img src="https://github.com/user-attachments/assets/a5da7757-12e6-4a00-bf26-d87b7999496a"><br>
 Front-end Development is the development or creation of a user interface using some markup languages and other tools. It is the development of the user side where only user interaction will be counted. It consists of the interface where buttons, texts, alignments, etc are involved and used by the user
-<h1><b>5. Backend Development</b></h1>
+<h1><b> Backend Development</b></h1>
 <img src="https://github.com/user-attachments/assets/4af8bc2e-ea13-4a06-aeba-25a042cf4f86" height="400"><br>
 Backend Development involves the logic, database, and other operations that are built behind the scenes to run the web servers efficiently.
-<h1><b>6. NIC (Network Interface Controller)</b></h1>
+<h1><b> NIC (Network Interface Controller)</b></h1>
 <img src="https://github.com/user-attachments/assets/3aac297f-4b08-4b82-a78a-650753eb0a25" height ="400"><br>
 A network interface controller (NIC, also known as a network interface card, network adapter, LAN adapter and physical network interface) is a computer hardware component that connects a computer to a computer network.
-<h1><b>7. Ethernet</b></h1>
+<h1><b> Ethernet</b></h1>
 <img src="https://github.com/user-attachments/assets/607e6f02-2402-4a7a-9654-b0a09589b4d2" height="400"><br>
 Ethernetis a family of wired computer networking technologies commonly used in local area networks (LAN), metropolitan area networks (MAN) and wide area networks (WAN).
-<h1><b>13. Virtual Machine (VM)</b></h1>
+<h1><b> Virtual Machine (VM)</b></h1>
 <img src="https://github.com/user-attachments/assets/6f6b3c22-96be-40a9-a033-f0f90e5a31b3" height="400"><br>
 In computing, a virtual machine (VM) is the virtualization or emulation of a computer system. Virtual machines are based on computer architectures and provide the functionality of a physical computer. Their implementations may involve specialized hardware, software, or a combination of the two
-<h1><b>18. DNS (Domain Naming System)</b></h1>
+<h1><b> DNS (Domain Naming System)</b></h1>
 <img src="https://github.com/user-attachments/assets/ba5b635d-1d2c-42db-ae02-98699af766a0" height="400"><br>
 The Domain Name System (DNS) is a hierarchical and distributed name service that provides a naming system for computers, services, and other resources on the Internet or other Internet Protocol (IP) networks. It associates various information with domain names (identification strings) assigned to each of the associated entities. Most prominently, it translates readily memorized domain names to the numerical IP addresses needed for locating and identifying computer services and devices with the underlying network protocols.
-<h1><b>20.OS (Operating System)</b></h1>
+<h1><b>OS (Operating System)</b></h1>
 <img src="https://github.com/user-attachments/assets/64974fda-bcfd-45ed-bb14-86f5bb446086" height=""><br>
 An operating system (OS) is system software that manages computer hardware and software resources, and provides common services for computer programs
-<h1><b>19. IP (Internet Protocol)</b></h1>
+<h1><b> IP (Internet Protocol)</b></h1>
 <img src="https://github.com/user-attachments/assets/938048cf-15c7-496f-b85e-c0e59b3b4680" height="400"><br>
 An Internet Protocol address (IP address) is a numerical label such as 192.0.2.1 that is assigned to a device connected to a computer network that uses the Internet Protocol for communication. IP addresses serve two main functions: network interface identification, and location addressing.
-<h1><b>27.Assembler</b></h1>
+<h1><b>Assembler</b></h1>
 <img src="https://github.com/user-attachments/assets/8f02283f-baf5-410f-b666-a7b5f49a4f50" height="400"><br>
 In computer programming, assembly language (alternatively assembler language or symbolic machine code),[2][3][4] often referred to simply as assembly and commonly abbreviated as ASM or asm, is any low-level programming language with a very strong correspondence between the instructions in the language and the architecture's machine code instructions.
 
