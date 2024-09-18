@@ -71,4 +71,7 @@ An operating system (OS) is system software that manages computer hardware and s
 <h1><b>19. IP (Internet Protocol)</b></h1>
 <img src="https://github.com/user-attachments/assets/938048cf-15c7-496f-b85e-c0e59b3b4680" height="400"><br>
 An Internet Protocol address (IP address) is a numerical label such as 192.0.2.1 that is assigned to a device connected to a computer network that uses the Internet Protocol for communication. IP addresses serve two main functions: network interface identification, and location addressing.
+<h1><b>27.Assembler</b></h1>
+<img src="https://github.com/user-attachments/assets/8f02283f-baf5-410f-b666-a7b5f49a4f50" height="400"><br>
+In computer programming, assembly language (alternatively assembler language or symbolic machine code),[2][3][4] often referred to simply as assembly and commonly abbreviated as ASM or asm, is any low-level programming language with a very strong correspondence between the instructions in the language and the architecture's machine code instructions.
 
