@@ -50,9 +50,7 @@ A server is a computer that provides information to other computers called "clie
 <h1><b>Frontend Development</b></h1>
 <img src="https://github.com/user-attachments/assets/a5da7757-12e6-4a00-bf26-d87b7999496a"><br>
 Front-end Development is the development or creation of a user interface using some markup languages and other tools. It is the development of the user side where only user interaction will be counted. It consists of the interface where buttons, texts, alignments, etc are involved and used by the user
-<h1><b> Backend Development</b></h1>
-<img src="https://github.com/user-attachments/assets/4af8bc2e-ea13-4a06-aeba-25a042cf4f86" height="400"><br>
-Backend Development involves the logic, database, and other operations that are built behind the scenes to run the web servers efficiently.
+
 <h1><b> NIC (Network Interface Controller)</b></h1>
 <img src="https://github.com/user-attachments/assets/3aac297f-4b08-4b82-a78a-650753eb0a25" height ="400"><br>
 A network interface controller (NIC, also known as a network interface card, network adapter, LAN adapter and physical network interface) is a computer hardware component that connects a computer to a computer network.
@@ -74,4 +72,7 @@ An Internet Protocol address (IP address) is a numerical label such as 192.0.2.1
 <h1><b>Assembler</b></h1>
 <img src="https://github.com/user-attachments/assets/8f02283f-baf5-410f-b666-a7b5f49a4f50" height="400"><br>
 In computer programming, assembly language (alternatively assembler language or symbolic machine code),[2][3][4] often referred to simply as assembly and commonly abbreviated as ASM or asm, is any low-level programming language with a very strong correspondence between the instructions in the language and the architecture's machine code instructions.
+<h1><b> Backend Development</b></h1>
+<img src="https://github.com/user-attachments/assets/4af8bc2e-ea13-4a06-aeba-25a042cf4f86" height="400"><br>
+Backend Development involves the logic, database, and other operations that are built behind the scenes to run the web servers efficiently.
 
