@@ -75,4 +75,3 @@ In computer programming, assembly language (alternatively assembler language or 
 <h1><b> Backend Development</b></h1>
 <img src="https://github.com/user-attachments/assets/4af8bc2e-ea13-4a06-aeba-25a042cf4f86" height="400"><br>
 Backend Development involves the logic, database, and other operations that are built behind the scenes to run the web servers efficiently.
-
